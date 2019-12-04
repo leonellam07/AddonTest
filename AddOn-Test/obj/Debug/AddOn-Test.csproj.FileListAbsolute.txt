@@ -1,0 +1,12 @@
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\bin\Debug\AddOn-Test.exe.config
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\bin\Debug\AddOn-Test.exe
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\bin\Debug\AddOn-Test.pdb
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\AddOn-Test.csprojAssemblyReference.cache
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\AddOn-Test.csproj.ResolveComReference.cache
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\AddOn_Test.Properties.Resources.resources
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\AddOn-Test.csproj.GenerateResource.cache
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\AddOn-Test.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\AddOn-Test.exe
+C:\Users\Desarrollo1-SAP\source\repos\AddOn-Test\AddOn-Test\obj\Debug\AddOn-Test.pdb
